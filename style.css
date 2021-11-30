@@ -1,0 +1,37 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+#start, #status_of_objects, #status
+{
+    font-size: 20px;
+}
+
+.heading0
+{
+    color: white;
+    font-size: 10px;
+}
+
+.heading1
+{
+    font-size: 20px;
+    color: white;
+}
+
+canvas
+{
+    background-color: rgb(235, 235, 235);
+    border-color: yellowgreen;
+    box-shadow: 5px 5px 5px gray;
+    margin: 5px;
+    padding: 5px;
+}
